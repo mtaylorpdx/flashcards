@@ -1,0 +1,21 @@
+.panel-heading {
+  font-size: 20px;
+}
+
+.js-h, .op-h {
+  cursor: pointer;
+  color: blue;
+}
+
+.js-h:hover, .op-h:hover {
+  text-decoration: underline;
+}
+
+.hidden {
+  display: none;
+}
+
+p {
+  color: black;
+  text-decoration: ;
+}
